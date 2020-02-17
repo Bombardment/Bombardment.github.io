@@ -847,6 +847,7 @@ section
 	font-weight: 600;
 	color: #FFFFFF;
 	line-height: 1.2;
+	-webkit-text-stroke: 1px black;
 }
 .home_slider_subtitle
 {
@@ -1053,7 +1054,7 @@ section
 {
 	max-width: 567px;
 	height: 100%;
-	background: rgba(0,0,0,0.63);
+	background: rgba(0,0,0,0.30);
 	padding-right: 130px;
 	padding-left: 30px;
 	padding-top: 51px;
@@ -1096,6 +1097,9 @@ section
 .product_image img
 {
 	max-width: 100%;
+	max-height:100%;
+	width: auto;
+	height: auto;
 }
 .product_content
 {
