@@ -991,11 +991,13 @@ section
 }
 .product_image
 {
-	width: 100%;
+	width: 260px;
+	height: 200px;
 }
 .product_image img
 {
-	max-width: 100%;
+	width: 260px;
+	height: 200px;
 }
 .product_content
 {

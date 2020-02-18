@@ -1098,8 +1098,8 @@ section
 {
 	max-width: 100%;
 	max-height:100%;
-	width: auto;
-	height: auto;
+	height: 200px;
+	width: 262.5px;
 }
 .product_content
 {
